@@ -1,5 +1,6 @@
 {
   "name": "cameronriu.github.io",
+  "homepage" : "https://cameronriu.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
