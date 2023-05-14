@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cameronriu.github.io/static/css/main.3f708d84.css",
+    "main.js": "/cameronriu.github.io/static/js/main.04f0f0a1.js",
+    "static/js/787.512dd3f2.chunk.js": "/cameronriu.github.io/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/cameronriu.github.io/index.html",
+    "main.3f708d84.css.map": "/cameronriu.github.io/static/css/main.3f708d84.css.map",
+    "main.04f0f0a1.js.map": "/cameronriu.github.io/static/js/main.04f0f0a1.js.map",
+    "787.512dd3f2.chunk.js.map": "/cameronriu.github.io/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f708d84.css",
+    "static/js/main.04f0f0a1.js"
+  ]
+}
